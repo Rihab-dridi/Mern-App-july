@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.contactListContainer{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  flex-wrap: wrap;
+  row-gap: 30px;
+
+}
+.contact-btns{
+  text-align: end;
+  margin: 5px;
+}
